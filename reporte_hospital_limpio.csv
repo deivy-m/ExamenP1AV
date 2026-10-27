@@ -1,0 +1,21 @@
+,ID_Registro,Tipo_Registro,Fecha,Especialidad,PacienteID,NombrePaciente,MedicoID,NombreMedico,CostoConsulta,SalaID,TipoCirugia,CostoCirugia,Exito
+0,101,Cita,1/5/2025,Cardiología,PAC-001,Juan Torres,MED-10,Dr. Rivas,60.0,_,_,0.0,No
+2,102,Cita,1/5/2025,General,PAC-002,Maria Lopez,MED-12,Dra. Salas,45.0,_,_,0.0,No
+3,103,Cirugia,2/5/2025,Cardiología,_,_,MED-10,Dr. Rivas,0.0,S-01,Bypass,12500.0,Sí
+4,104,Cita,2/5/2025,Pediatría,PAC-003,Luis Cano,MED-15,Dr. Mendez,40.0,_,_,0.0,No
+5,105,Cirugia,3/5/2025,Traumatología,_,_,MED-20,Dra. Luna,0.0,S-05,Prótesis Cadera,8500.0,Sí
+6,106,Cita,3/5/2025,Cardiología,PAC-004,Ana Soto,MED-10,Dr. Rivas,60.0,_,_,0.0,No
+7,107,Cirugia,4/5/2025,Cardiología,_,_,MED-10,Dr. Rivas,0.0,S-01,Stent,4500.0,No
+8,108,Cita,4/5/2025,General,PAC-005,Pedro Ruiz,MED-18,Dra. Gomez,50.0,_,_,0.0,No
+9,109,Cirugia,5/5/2025,Pediatría,_,_,MED-15,Dr. Mendez,0.0,S-02,Apendicectomía,3200.0,Sí
+10,110,Cita,5/5/2025,Traumatología,PAC-001,Juan Torres,MED-20,Dra. Luna,55.0,_,_,0.0,No
+11,111,Cirugia,6/5/2025,Traumatología,_,_,MED-22,Dr. Vaca,0.0,S-05,Artroscopía,2800.0,Sí
+12,112,Cita,6/5/2025,Cardiología,PAC-002,Maria Lopez,MED-10,Dr. Rivas,60.0,_,_,0.0,No
+13,113,Cirugia,7/5/2025,Cardiología,_,_,MED-10,Dr. Rivas,0.0,S-01,Bypass,12500.0,Sí
+14,114,Cita,7/5/2025,Pediatría,PAC-006,Elena Paz,MED-15,Dr. Mendez,40.0,_,_,0.0,No
+15,115,Cirugia,8/5/2025,Traumatología,_,_,MED-20,Dra. Luna,0.0,S-05,Prótesis Rodilla,9000.0,Sí
+17,116,Cita,8/5/2025,Traumatología,PAC-003,Luis Cano,MED-20,Dra. Luna,55.0,_,_,0.0,No
+18,117,Cirugia,9/5/2025,Pediatría,_,_,MED-17,Dra. Ortiz,0.0,S-02,Hernia,2100.0,Sí
+19,118,Cita,9/5/2025,Cardiología,PAC-001,Juan Torres,MED-10,Dr. Rivas,60.0,_,_,0.0,No
+20,119,Cirugia,10/5/2025,Cardiología,_,_,MED-10,Dr. Rivas,0.0,S-01,Stent,4500.0,Sí
+22,120,Cita,10/5/2025,Pediatría,PAC-002,Maria Lopez,MED-15,Dr. Mendez,40.0,_,_,0.0,No
